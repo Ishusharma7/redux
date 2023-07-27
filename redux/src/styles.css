@@ -1,0 +1,16 @@
+.container1,.container2{
+    display: inline;    
+    border: 2px white solid;
+    color: white;
+    padding: 2%;
+}
+.container1{
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+.container2{
+    position: absolute;
+    left: 50%;
+    top: 24%;
+}
